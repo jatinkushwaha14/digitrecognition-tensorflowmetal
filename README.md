@@ -1,6 +1,6 @@
 # Digit Recogniser
 
-This project is a machine learning application for recognizing handwritten digits using the MNIST dataset. The model, built with TensorFlow and trained on a GPU using TensorFlow Metal, achieves high accuracy in classifying digits from 0 to 9. The implementation involves data preprocessing, model training, and prediction on real handwritten digit images.
+This project is a machine learning application for recognizing real handwritten digits using model trained on MNIST dataset. The model, built with TensorFlow and trained on a GPU using TensorFlow Metal, achieves high accuracy in classifying digits from 0 to 9. The implementation involves data preprocessing, model training, and prediction on real handwritten digit images.
 
 The goal of this project is to create a model that can accurately classify handwritten digits (0-9). The MNIST dataset, a large database of handwritten digits commonly used for training various image processing systems, is used for training and testing the model.
 
